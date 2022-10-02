@@ -1,7 +1,5 @@
 ### Olá, seja bem-vindo! 👋
 
-Me chamo Lucas Lumertz.
-
 E esse espaço é dedicado aos trabalhos proposto pela minha faculade.
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
