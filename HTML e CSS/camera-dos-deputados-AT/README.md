@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="CameraDosDeputdos" src="https://github.com/LLR798/portifolio/blob/main/assets/preview.png?raw=true" width="100%">
+  <img alt="CameraDosDeputdos" src="https://github.com/LLR798/Trabalhos-da-faculdade/blob/main/HTML%20e%20CSS/camera-dos-deputados-AT/imagens/preview.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
