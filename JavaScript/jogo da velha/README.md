@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="JogoDaVelha" src="https://github.com/LLR798/portifolio/blob/main/assets/preview.png?raw=true" width="100%">
+  <img alt="JogoDaVelha" src="https://github.com/LLR798/Trabalhos-da-faculdade/blob/main/JavaScript/jogo%20da%20velha/preview.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
